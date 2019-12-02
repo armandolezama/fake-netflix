@@ -1,0 +1,23 @@
+{
+  "name": "fake-netflix",
+  "version": "1.0.0",
+  "description": "First practice for polymer academy",
+  "main": "index.js",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandolezama/fake-netflix.git"
+  },
+  "author": "Armando Lezama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandolezama/fake-netflix/issues"
+  },
+  "homepage": "https://github.com/armandolezama/fake-netflix#readme"
+}
